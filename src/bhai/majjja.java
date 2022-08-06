@@ -1,5 +1,5 @@
 package bhai;
 
-public class majjja {
+public class majjjakkkkkkk {
              
 }
